@@ -1,5 +1,4 @@
-## Hi! I'm Vitor DallAcqua! 🖐️
-## Olá! Eu sou o Vitor DallAcqua! 🖐️
+## Hi! I'm Vitor DallAcqua! / Olá! Eu sou o Vitor DallAcqua! 🖐️
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@veggav)
@@ -7,8 +6,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=fandangos&show_icons=true&theme=dracula&count_private=true)
 
-## Technologies that I use everyday
-## Tecnologias que eu uso no meu dia
+## Technologies that I use everyday / Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
