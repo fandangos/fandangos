@@ -6,6 +6,8 @@
 
 ![GitHub stats](https://github-readme-stats-roan-alpha-95.vercel.app/api?username=fandangos&show_icons=true&theme=gruvbox_light&count_private=true)
 
+![Language stats](https://github-readme-stats-roan-alpha-95.vercel.app/api/top-langs/?username=fandangos&theme=gruvbox_light&count_private=true&layout=compact)
+
 ## Technologies that I use everyday / Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
